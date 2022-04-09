@@ -22,4 +22,10 @@ hello-rust
  srs/main.rs - is where we'll write our apllication code.
  cargo-new - generates a "Hello, World" project for us! we can run this program by moving into the new directory that we made and running this is our terminal.
 
- cargo-run 
+ cargo-run
+
+
+# Links
+- [https://www.rust-lang.org/learn/get-started](https://www.rust-lang.org/learn/get-started)
+- [http://web.mit.edu/rust-lang_v1.25/arch/amd64_ubuntu1404/share/doc/rust/html/book/first-edition/getting-started.html](http://web.mit.edu/rust-lang_v1.25/arch/amd64_ubuntu1404/share/doc/rust/html/book/first-edition/getting-started.html)
+- [https://www.tutorialspoint.com/rust/rust_data_types.htm](https://www.tutorialspoint.com/rust/rust_data_types.htm)
